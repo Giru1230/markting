@@ -1,0 +1,4 @@
+/banner/otonapopup/*
+  Access-Control-Allow-Origin: https://lezhin.jp
+  Access-Control-Allow-Methods: GET, OPTIONS
+  Cache-Control: public, max-age=60, must-revalidate
